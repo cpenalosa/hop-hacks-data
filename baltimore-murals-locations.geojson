@@ -1,0 +1,2741 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.57663,39.3162 ]
+    },
+    "properties": {
+    "id":"mural01",
+    "identifier":"1400 North Avenue (Court Building parking lot)",
+    "artist":"Spoon Popkin",
+    "artistFirstName":"Spoon",
+    "artistLastName":"Popkin",
+    "completed":"06/30/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/-_58tYomIrTnpkvaNQiOZQfBkGWyUeQl5v9dthQ0X8M?filename=S.+Popkin+T.+Miller+Tribute+Panel1.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6263,39.26694 ]
+    },
+    "properties": {
+    "id":"mural02",
+    "identifier":"W. Ostend and James Sts.",
+    "artist":"Mary and Terry Carfagno Ferguson and Van Tassell",
+    "artistFirstName":"Mary and Terry",
+    "artistLastName":"Carfagno Ferguson and Van Tassell",
+    "completed":"06/21/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/-7C22iH7j4gaPNq0NCz_aPtPm2hKzgbJuOCN8QTS4jk?filename=Skateboarding+Mural.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6357293135,39.2803246576 ]
+    },
+    "properties": {
+    "id":"mural03",
+    "identifier":"1327 Washington Boulevard, Barrister School (interior)",
+    "artist":"Charles and Donald Carroll and Tyson",
+    "artistFirstName":"Charles and Donald",
+    "artistLastName":"Carroll and Tyson",
+    "completed":"06/28/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/-E9oH4xyf4QOt03UFhyb4kJalAPbAFfRuOSa-r7hG8U?filename=Charles+Carroll+34+Donal+Tyson.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5927186163,39.3054114148 ]
+    },
+    "properties": {
+    "id":"mural04",
+    "identifier":"1756 E. Preston St.",
+    "artist":"Mary Carfagno Ferguson",
+    "artistFirstName":"Mary",
+    "artistLastName":"Carfagno Ferguson",
+    "completed":"06/20/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/-Ww8s3wudL0pE47_Ww-4gH46ddgu_J_qDK3CuTnXbB4?filename=ferguson+1756+e+preston+st+2.4.04.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5868010774,39.2250390051 ]
+    },
+    "properties": {
+    "id":"mural05",
+    "identifier":"4501 Curtis Avenue",
+    "artist":"Peggy Ward",
+    "artistFirstName":"Peggy",
+    "artistLastName":"Ward",
+    "completed":"06/27/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/-XggIgigxzzMsxNb9ypp_5bDTkBicZRM-DpWpGeRZWM?filename=IMG_0192%5B1%5D&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5996074231,39.3118955266 ]
+    },
+    "properties": {
+    "id":"mural06",
+    "identifier":"1339 E. North Ave.",
+    "artist":"Tom Miller",
+    "artistFirstName":"Tom",
+    "artistLastName":"Miller",
+    "completed":"06/14/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/0ki7_5mCamA5DXbJsO9KsZUMKPb2LoGibHZogLdfsu0?filename=miller+-+harford+%26+north.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6825429006,39.2817592454 ]
+    },
+    "properties": {
+    "id":"mural07",
+    "identifier":"4004 Frederick Ave.",
+    "artist":"Lyle Kissack",
+    "artistFirstName":"Lyle",
+    "artistLastName":"Kissack",
+    "completed":"06/22/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/0v0JmVjOe8L9udhMIp6QlAQNTHQDdRr6XWRA8up8AJY?filename=kissack+-+4004+Frederick+Ave.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6099226467,39.3594516756 ]
+    },
+    "properties": {
+    "id":"mural08",
+    "identifier":"5700 York Rd.",
+    "artist":"Antonio Rodriquez",
+    "artistFirstName":"Antonio",
+    "artistLastName":"Rodriquez",
+    "completed":"06/13/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/0ZmEgH04uimAKc9s3hWSab5K1vGvLG77f1irV85E30I?filename=rodriquez-525+benninghaus+rd.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5936179383,39.2861839098 ]
+    },
+    "properties": {
+    "id":"mural09",
+    "identifier":"412 S. Broadway",
+    "artist":"Eric Monastario",
+    "artistFirstName":"Eric",
+    "artistLastName":"Monastario",
+    "completed":"06/22/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/1ZE1vv25BnlZVa6iJWP_5ldC7f7x2w8YJHUDpFDtx2s?filename=monastario+-+412+S+Broadway.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6219651223,39.3083776677 ]
+    },
+    "properties": {
+    "id":"mural10",
+    "identifier":"1398 Mt Royal Avenue, Midtown Academy (interior)",
+    "artist":"Shawn James",
+    "artistFirstName":"Shawn",
+    "artistLastName":"James",
+    "completed":"06/29/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/27lxXAjWbg9Ef1v_rOXuhhOlOZ6MyJCMaOUBvSaU6jk?filename=Shawn+James+and+Midtown+Academy+2007.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural11",
+    "identifier":"Liberty and Clay Sts.",
+    "artist":"Shawn James and Access Art Inc.",
+    "artistFirstName":"Shawn",
+    "artistLastName":"James and Access Art Inc.",
+    "completed":"06/26/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/2lTfEswG-31PAh52vw2ajKaefrvbT1x6IIZJTWd_AYc?filename=Believe+Mural.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.64039,39.31194 ]
+    },
+    "properties": {
+    "id":"mural12",
+    "identifier":"700 N. Calhoun Street, Harlem Park Recreation Center",
+    "artist":"John Marra",
+    "artistFirstName":"John",
+    "artistLastName":"Marra",
+    "completed":"07/02/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/2RcgYNuIbIaSOHrfXXZSAxm_hyMw1NtRRAwydIoSqzw?filename=Marra+Harlem+Park+Rec.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5994635315,39.2893225437 ]
+    },
+    "properties": {
+    "id":"mural13",
+    "identifier":"141 S. Central Ave.",
+    "artist":"Donna McCullough",
+    "artistFirstName":"Donna",
+    "artistLastName":"McCullough",
+    "completed":"06/11/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/3FNrFd_XXQGkMvw0yyJCnL4EzQLBDJ77JG9691u55MU?filename=mccullough-141+s+central+ave.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6501527922,39.2909900936 ]
+    },
+    "properties": {
+    "id":"mural14",
+    "identifier":"221 Pulaski Street",
+    "artist":"Michelle Santos",
+    "artistFirstName":"Michelle",
+    "artistLastName":"Santos",
+    "completed":"07/02/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/3VlJvaaD_loKiA8niBAvsyRICbfp2eff1YT0Pof4AGQ?filename=221+Pulaski+M.+Santos.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6263,39.26694 ]
+    },
+    "properties": {
+    "id":"mural15",
+    "identifier":"1800 block Hanover St",
+    "artist":"Jennifer Rattigan and MICA CAP Program",
+    "artistFirstName":"Jennifer",
+    "artistLastName":"Rattigan and MICA CAP Program",
+    "completed":"06/25/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/4F4XfD4M0oRVUXOD7gGiVYrjzRPwjg8Sr1KL7Sj3yyc?filename=rattigan+-+1800+block+hanover+st+9.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5734731249,39.3217520961 ]
+    },
+    "properties": {
+    "id":"mural16",
+    "identifier":"3301 Belair Road",
+    "artist":"Charles Lawrence",
+    "artistFirstName":"Charles",
+    "artistLastName":"Lawrence",
+    "completed":"06/29/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/5d_KvAT0nBs1SegqTaV3q6ThDGEx-U4x_HYlJP7gDYs?filename=C.+Lawrance+Bel+Air+Edison+001.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6328193856,39.2809678421 ]
+    },
+    "properties": {
+    "id":"mural17",
+    "identifier":"1170 Carroll St.",
+    "artist":"Shawn James",
+    "artistFirstName":"Shawn",
+    "artistLastName":"James",
+    "completed":"06/21/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/5xb6uGr6--9vb2deTXn-wM7FoVTHr9PplOUw__K5h48?filename=ShawnJames+ostendmural.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5964145025,39.3004378362 ]
+    },
+    "properties": {
+    "id":"mural18",
+    "identifier":"900 N. Bond St.",
+    "artist":"Archie Veale",
+    "artistFirstName":"Archie",
+    "artistLastName":"Veale",
+    "completed":"06/20/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/6_tQr_6NNc0uPlQFLQ8JdO5uVVVuwT355UTcnTL6syc?filename=Veale-+900+N.+Bond.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural19",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets1",
+    "artist":"Ernie Shaw",
+    "artistFirstName":"Ernie",
+    "artistLastName":"Shaw",
+    "completed":"06/29/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/6deREQj4-LSksSR3JslTv3SAwPCRrZaC0BwyuqSWkFU?filename=E.+Shaw+Farmers%27+Market+07.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.63246865,39.2863367946 ]
+    },
+    "properties": {
+    "id":"mural20",
+    "identifier":"905 Lemmon Street",
+    "artist":"John Ellsberry",
+    "artistFirstName":"John",
+    "artistLastName":"Ellsberry",
+    "completed":"06/16/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/6gNSZjdMOdvLOIwmmME3-PlhIgwPnk8hwQj1725or6Q?filename=ellsberry-905+lemmon+st.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural21",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets2",
+    "artist":"Laura Lynn Emberson",
+    "artistFirstName":"Laura Lynn",
+    "artistLastName":"Emberson",
+    "completed":"06/28/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/6J4nYvhHkDKtZfqrg6wBcZS57jNEVR34dGe_zMJxGhU?filename=L.L.+Emberson+Farmer%27s+Market+005.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6338266263,39.3074438826 ]
+    },
+    "properties": {
+    "id":"mural22",
+    "identifier":"1904 McCulloh St.",
+    "artist":"Lyle Kissack",
+    "artistFirstName":"Lyle",
+    "artistLastName":"Kissack",
+    "completed":"06/23/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/6n7xLo1noJjbxZySh2JN28JIe_xkn7W7MlV5TSf1qq4?filename=kissack+-+1904+McCulloh+St+2.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6168994607,39.3173480118 ]
+    },
+    "properties": {
+    "id":"mural23",
+    "identifier":"2439 Charles Street",
+    "artist":"Greg Gannon",
+    "artistFirstName":"Greg",
+    "artistLastName":"Gannon",
+    "completed":"07/03/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/6QBqaXWCRN7vNLShGsBqof52cfKotGDcVfsvP3bbQaY?filename=2439+N.+Charles+G.+Gannon.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural24",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets3",
+    "artist":"Jennifer Rattigan",
+    "artistFirstName":"Jennifer",
+    "artistLastName":"Rattigan",
+    "completed":"06/29/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/6ZFYOy506R6Gd4MJZSebqe1a-_7L2NuvjUH-WMIOXjQ?filename=J.+Rattigan+FM+07.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural25",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets4",
+    "artist":"Spoon Popkin",
+    "artistFirstName":"Spoon",
+    "artistLastName":"Popkin",
+    "completed":"06/30/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/72UfuwZEimX6i4MPWNhNz87M1sha_R62li7ZQNgOitk?filename=Spoon+Popkin+2008+back+view.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6111097518,39.3238025503 ]
+    },
+    "properties": {
+    "id":"mural26",
+    "identifier":"2900 Barclay Street (Mosaic)",
+    "artist":"Tamara and Natalie Payne and Kossack",
+    "artistFirstName":"Tamara and Natalie",
+    "artistLastName":"Payne and Kossack",
+    "completed":"07/03/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/73tQ6qiXxYCJivvKsnE993uZLrt40pc8t0GWOgvYFok?filename=IMG_0119%5B1%5D&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6374329076,39.2865706183 ]
+    },
+    "properties": {
+    "id":"mural27",
+    "identifier":"1224 W. Lombard St.",
+    "artist":"Helen Glazer",
+    "artistFirstName":"Helen",
+    "artistLastName":"Glazer",
+    "completed":"06/15/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/7J8wEOHVNgek_Q51z6lKr6owLsaV3UUCY03H0RFMnYA?filename=glazer-1224+w+lombard.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural28",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets5",
+    "artist":"Pontella Mason",
+    "artistFirstName":"Pontella",
+    "artistLastName":"Mason",
+    "completed":"06/29/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/7rT6d_eBXnc70gHmGL-6ap_q5H01tnloYkkyhwryuSM?filename=P.+Mason+Farmers+Market.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural29",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets6",
+    "artist":"Danamarie Hosler",
+    "artistFirstName":"Danamarie",
+    "artistLastName":"Hosler",
+    "completed":"06/28/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/7rX0rShaFVyFvB2gK0j8LNOAhEGZuvl8sKqw5rf734o?filename=d.+hosler+2.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.56325,39.30241 ]
+    },
+    "properties": {
+    "id":"mural30",
+    "identifier":"3030 Jefferson Street, Elwood Park",
+    "artist":"Mark Selby",
+    "artistFirstName":"Mark",
+    "artistLastName":"Selby",
+    "completed":"07/01/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/8_FOp6rz5jYuhNXnc9Rp1j9ZSLKk00iQKrCFZDsjTQw?filename=Mark+Selby+-+Ellwood+Park+1.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.652119405,39.2867391719 ]
+    },
+    "properties": {
+    "id":"mural31",
+    "identifier":"106 S. Calverton St.",
+    "artist":"Ernest Shaw",
+    "artistFirstName":"Ernest",
+    "artistLastName":"Shaw",
+    "completed":"06/22/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/8e_aG3p06UvFWPR1qGyhvuJjHOxcg3DX7GL6Im5j_Qs?filename=Shaw+Mural.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5623941188,39.2869003955 ]
+    },
+    "properties": {
+    "id":"mural32",
+    "identifier":"4100 Eastern Avenue",
+    "artist":"Michael Owens",
+    "artistFirstName":"Michael",
+    "artistLastName":"Owens",
+    "completed":"07/01/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/8GkVCDY7aPCBfEjQOp-O0CKtqdhk6zqIPFC3pcfeu1Q?filename=Michael+Owen+4100+Eastern+Ave+%2817%29.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5648036605,39.286723503 ]
+    },
+    "properties": {
+    "id":"mural33",
+    "identifier":"3801 Eastern Avenue",
+    "artist":"Michael Kirby",
+    "artistFirstName":"Michael",
+    "artistLastName":"Kirby",
+    "completed":"06/28/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/8lVpaPgRifZMWT0JuEBK2TWtB0BqEbYFxYOxT6CFqMo?filename=M.+Kirby+Highlandtown.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural34",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets7",
+    "artist":"Gary Mullen",
+    "artistFirstName":"Gary",
+    "artistLastName":"Mullen",
+    "completed":"06/29/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/aAbCiGRMRqPDXnkEHlew82E7wb4pLNqfBOi4geHD34E?filename=G.+Mullen+FM+07.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.60332,39.32947 ]
+    },
+    "properties": {
+    "id":"mural35",
+    "identifier":"33rd and Greenmount Avenue",
+    "artist":"Ernie, Charles and Donald Shaw, Lawrence and Tyson",
+    "artistFirstName":"Ernie, Charles and Donald",
+    "artistLastName":"Shaw, Lawrence and Tyson",
+    "completed":"06/30/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/ad4WpdV1izATY4BWPigv1rh3yCr4M-MHB2QImIMpfrs?filename=Shaw%2C+Lawrance%2C+Tyson.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6316567746,39.3310764824 ]
+    },
+    "properties": {
+    "id":"mural36",
+    "identifier":"929 W. 36th Street",
+    "artist":"Jennifer Ratigan",
+    "artistFirstName":"Jennifer",
+    "artistLastName":"Ratigan",
+    "completed":"06/28/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/AN8lO3L8cNyMxDn92C2mIsBX6pbxu1MQ1UPK72sJDvo?filename=Rattigan%2C+36th+Hamden.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.57663,39.3162 ]
+    },
+    "properties": {
+    "id":"mural37",
+    "identifier":"3900 Bel Air Road, Movie Shed",
+    "artist":"Emily CD",
+    "artistFirstName":"Emily",
+    "artistLastName":"CD",
+    "completed":"06/30/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/Ao8I2ERRP2Snv7FsvLvx4AMP7NDmPxGXOM70Jt30gC8?filename=E.+C-D+3900+Bel+Air+Movie+Shed.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural38",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets8",
+    "artist":"Gary Mullen",
+    "artistFirstName":"Gary",
+    "artistLastName":"Mullen",
+    "completed":"06/28/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/Asv99hEg8aWPtxYizcmDBcXfcIo8VcSoVqwG3MJuulQ?filename=g.+mullen.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6530181584,39.290968303 ]
+    },
+    "properties": {
+    "id":"mural39",
+    "identifier":"200 N. Bentalou St.",
+    "artist":"Benari Stewart and Urban Experience",
+    "artistFirstName":"Benari",
+    "artistLastName":"Stewart and Urban Experience",
+    "completed":"06/26/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/AV_dPLBJiRfHQMQVUntZx7z-IHiMxbMA6MJw_DhvbsU?filename=Stewart+-+200+North+Bentalou+lores.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural40",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets9",
+    "artist":"Nelson Rivas",
+    "artistFirstName":"Nelson",
+    "artistLastName":"Rivas",
+    "completed":"07/01/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/aW3uwxCYaLcs4xAoP67snQ_uWjjNJRqxnWi3sN-mAMw?filename=Farmers+Market+-+Nelson+Rivas+side+1.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6309487958,39.2828923912 ]
+    },
+    "properties": {
+    "id":"mural41",
+    "identifier":"886 Washington Blvd.",
+    "artist":"Mary Carfagno Ferguson",
+    "artistFirstName":"Mary",
+    "artistLastName":"Carfagno Ferguson",
+    "completed":"06/18/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/AXQFXUGsFhOVghGykJxvleqy3s0iPLiiH6wBjg2Pc_I?filename=ferguson-886+washington+blvd.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural42",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets010",
+    "artist":"Michael Kirby",
+    "artistFirstName":"Michael",
+    "artistLastName":"Kirby",
+    "completed":"06/29/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/AXtWVtT04DKez4Mbk9ddFgAky2XyAAaQrR0E72xQF3s?filename=M.+Kirby+FM07.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.55570961,39.2870344805 ]
+    },
+    "properties": {
+    "id":"mural43",
+    "identifier":"503 Oldham St.",
+    "artist":"Shawn, Xenofon, et al McRaney, Kohilas, Konsalas, Perrelli, Cavocos",
+    "artistFirstName":"Shawn, Xenofon, et al",
+    "artistLastName":"McRaney, Kohilas, Konsalas, Perrelli, Cavocos",
+    "completed":"06/26/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/BA38WxzqEMVoNGRUEPFwqSyEUMLmwRClKJMzIHbJeeY?filename=Greektown+Mural.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural44",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets011",
+    "artist":"Joel Bergner",
+    "artistFirstName":"Joel",
+    "artistLastName":"Bergner",
+    "completed":"06/30/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/bNqeRCpPy31X355fvqOT_Hn-Ff0TOhOHDDCsteUOAA0?filename=Joel+Bergner+Farmers+Market+08.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6418557034,39.3067211678 ]
+    },
+    "properties": {
+    "id":"mural45",
+    "identifier":"1601 N. Calhoun St.",
+    "artist":"Benari Stewart and Urban Xperience",
+    "artistFirstName":"Benari",
+    "artistLastName":"Stewart and Urban Xperience",
+    "completed":"06/27/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/buxmRgmrXMlwtwD_VD64KPG3NqkLSzQ39yXa-ahPte8?filename=ABS-Benari+Stewarts.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6228908704,39.2500041846 ]
+    },
+    "properties": {
+    "id":"mural46",
+    "identifier":"600 Cherry Hill Rd.",
+    "artist":"Tom Miller",
+    "artistFirstName":"Tom",
+    "artistLastName":"Miller",
+    "completed":"06/20/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/c1hOHx3AgCazTsfcpCDqkuVWdXB13xhekbkgJQvkqLo?filename=miller-600+cherry+hill+rd.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.60332,39.32947 ]
+    },
+    "properties": {
+    "id":"mural47",
+    "identifier":"Herring Run Park, off Harford Road at Argonne",
+    "artist":"Charles Lawrence",
+    "artistFirstName":"Charles",
+    "artistLastName":"Lawrence",
+    "completed":"06/30/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/C1K4CiFr94AznzB5w7izR7XTar3CFR_1lZs6eAMecg8?filename=Herring+Run+Park+Charles+Lawrance+2.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6641132885,39.3338455837 ]
+    },
+    "properties": {
+    "id":"mural48",
+    "identifier":"4000 Reistertown Rd.",
+    "artist":"Quentin Mosley",
+    "artistFirstName":"Quentin",
+    "artistLastName":"Mosley",
+    "completed":"06/12/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/chbdfyMPVnLgef8Kx7H1x63Aua9FY3vNm6bXCHqoAPc?filename=moseley-4000+reisterstown+rd.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6415518025,39.2990981742 ]
+    },
+    "properties": {
+    "id":"mural49",
+    "identifier":"903 N. Stricker St.",
+    "artist":"Pontella Mason",
+    "artistFirstName":"Pontella",
+    "artistLastName":"Mason",
+    "completed":"06/16/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/CKiOkm5cSIL9JnWdqAYX9ZnK-au9g8uacEi6qU_nf8g?filename=mason-903+North+Stricker+St.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6119239561,39.2783315102 ]
+    },
+    "properties": {
+    "id":"mural50",
+    "identifier":"114 Hamburg Street",
+    "artist":"Charles Lawrence",
+    "artistFirstName":"Charles",
+    "artistLastName":"Lawrence",
+    "completed":"06/30/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/cU8z0aWtDyCpQBKlfoZMI0XjZuqcNNXAbMU5GhmX_PY?filename=114+Hamburg+St+FINAL.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.694602809,39.3507282519 ]
+    },
+    "properties": {
+    "id":"mural51",
+    "identifier":"5801 Reisterstown Rd.",
+    "artist":"James Voshell",
+    "artistFirstName":"James",
+    "artistLastName":"Voshell",
+    "completed":"06/13/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/cy37OmoWICjyQB5eRFj_GEptEMrilqemDObrREi39II?filename=voshell+-+6000+reisterstown+rd+-+ncf.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5942024977,39.2892056318 ]
+    },
+    "properties": {
+    "id":"mural52",
+    "identifier":"1644 E. Pratt St.",
+    "artist":"Mary Carfagno Ferguson",
+    "artistFirstName":"Mary",
+    "artistLastName":"Carfagno Ferguson",
+    "completed":"06/22/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/DIvzuYr5KsiymjRPSAuX0BF-zk8fIVYy71Q6OOZWMAA?filename=ferguson+-+1644+E+Pratt+St.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5949219553,39.3540737298 ]
+    },
+    "properties": {
+    "id":"mural53",
+    "identifier":"1301 Woodbourne Ave.",
+    "artist":"Jeffrey Cook",
+    "artistFirstName":"Jeffrey",
+    "artistLastName":"Cook",
+    "completed":"06/20/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/DN0tZkK5GoQWLbQtYOJUoaXYlgzANxEl3DDb9VpSDRw?filename=cook+%26+woodburne+ctr+students-1301+woodbourne+ave+-+Great+expectations.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.56325,39.30241 ]
+    },
+    "properties": {
+    "id":"mural54",
+    "identifier":"519 S. Highland Street",
+    "artist":"Joel Bergner",
+    "artistFirstName":"Joel",
+    "artistLastName":"Bergner",
+    "completed":"06/30/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/DofIDyWm3TmSfvYRuaXms8B1Cb5BZ0hfGHcNP-QWuoU?filename=J.+Bergner+519+S.+HIghland.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6460124398,39.2895024081 ]
+    },
+    "properties": {
+    "id":"mural55",
+    "identifier":"1818 W. Fayette Street",
+    "artist":"Augustina Droze",
+    "artistFirstName":"Augustina",
+    "artistLastName":"Droze",
+    "completed":"07/02/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/dXI4cLNWwnUC4ica-TERzIXs3MJN2ZOqvKpBhQl-DgQ?filename=1818+Fayette+A.+Droze.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6131242332,39.3143686622 ]
+    },
+    "properties": {
+    "id":"mural56",
+    "identifier":"210 E. 22nd Street",
+    "artist":"A Adams",
+    "artistFirstName":"A",
+    "artistLastName":"Adams",
+    "completed":"07/02/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/E4bJtK-7zbaedOHHERHSO23iT3mUAO2H8BgF7TM-TLw?filename=210+E22nd+A.+Adams.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural57",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets012",
+    "artist":"Michael Owens",
+    "artistFirstName":"Michael",
+    "artistLastName":"Owens",
+    "completed":"06/28/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/EmBPm3mescZCG0aju0rMg3RogllA5Lzbyt-pfvLDIss?filename=m.+owens+2.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6413821658,39.3077757819 ]
+    },
+    "properties": {
+    "id":"mural58",
+    "identifier":"1611 Carey St.",
+    "artist":"Pontella Mason",
+    "artistFirstName":"Pontella",
+    "artistLastName":"Mason",
+    "completed":"06/12/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/evXoBq6ZlVrYMft4l5cE2HCj4SQorAzOFYkec69WDNg?filename=mason-carey+%26+cumberland.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.65197,39.28365 ]
+    },
+    "properties": {
+    "id":"mural59",
+    "identifier":"Ramsey and Monroe Sts.",
+    "artist":"Mary Carfagno Ferguson",
+    "artistFirstName":"Mary",
+    "artistLastName":"Carfagno Ferguson",
+    "completed":"06/19/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/eYg91fBx86C72jGToGOQUgOaDuMVLu0S-aRszF1tvvM?filename=ferguson-ramsay+%26+monroe+sts.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5996074231,39.3118955266 ]
+    },
+    "properties": {
+    "id":"mural60",
+    "identifier":"1339 E. North Ave.",
+    "artist":"Tom Miller",
+    "artistFirstName":"Tom",
+    "artistLastName":"Miller",
+    "completed":"06/13/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/fEIshumQ7P91h81sKxPQBTiF1gapbe1curPkvZHyJCA?filename=miller-1339+e+north+ave.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6135918806,39.3081723334 ]
+    },
+    "properties": {
+    "id":"mural61",
+    "identifier":"1617 N. Calvert St.",
+    "artist":"Charles Lawrance",
+    "artistFirstName":"Charles",
+    "artistLastName":"Lawrance",
+    "completed":"06/16/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/Fm3E3xKr91AmDnXyWUox4aZoTJng2EbMn3quWLLCZy0?filename=lawrance-1617+n+calvert+st.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6077462874,39.3283171469 ]
+    },
+    "properties": {
+    "id":"mural62",
+    "identifier":"601 E. 33rd Street",
+    "artist":"Nelson Rivas",
+    "artistFirstName":"Nelson",
+    "artistLastName":"Rivas",
+    "completed":"06/30/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/FPww0r9CqRM80oXBTdN5vdm6hSQWQTiGm4oIyDVALb8?filename=Waverly+Giant+Foods+-+Nelson+Rivas.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5933031756,39.2848169403 ]
+    },
+    "properties": {
+    "id":"mural63",
+    "identifier":"529 S. Broadway",
+    "artist":"Nelson Rivas",
+    "artistFirstName":"Nelson",
+    "artistLastName":"Rivas",
+    "completed":"06/30/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/G5RSGd_GiiRaXEErbrb5VYslBwP2lcnnIpLGXsft5YQ?filename=N.+Rivas+529+S.+Broadway.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural64",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets013",
+    "artist":"Donald Tyson",
+    "artistFirstName":"Donald",
+    "artistLastName":"Tyson",
+    "completed":"06/30/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/GHhG1CzShY0J_hYfU5grVq5XtmaFqV33TFz0-piUh2k?filename=Donald+Tyson+Farmers+Market+08.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6326485144,39.2858331742 ]
+    },
+    "properties": {
+    "id":"mural65",
+    "identifier":"910 W. Pratt St.",
+    "artist":"John Ellsberry",
+    "artistFirstName":"John",
+    "artistLastName":"Ellsberry",
+    "completed":"06/16/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/GO4KXoRkqK92uhHKLpAVA3PvFjwf_DXfWVjirugLkdY?filename=ellberry-910+w+pratt+st.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.67215,39.31028 ]
+    },
+    "properties": {
+    "id":"mural66",
+    "identifier":"711 Poplar Grove",
+    "artist":"Robbie Woodside",
+    "artistFirstName":"Robbie",
+    "artistLastName":"Woodside",
+    "completed":"06/09/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/guvLu8OnNkOfdrNMu6wPjvfn-PqVa9nIZHIu0cPTbTI?filename=Train+Mural.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6453228029,39.2922897628 ]
+    },
+    "properties": {
+    "id":"mural67",
+    "identifier":"325 N. Fulton Ave.",
+    "artist":"Lyle Kissack and MICA Community Arts Partnerships",
+    "artistFirstName":"Lyle",
+    "artistLastName":"Kissack and MICA Community Arts Partnerships",
+    "completed":"06/26/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/gXqX3dhUd-S2w_wIwaARsQi5ggD96FEjFcn8RzuumjM?filename=CAP+-+325+Fulton.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6381793449,39.3064636216 ]
+    },
+    "properties": {
+    "id":"mural68",
+    "identifier":"2043 Pennsylvania Avenue",
+    "artist":"Donald Tyson",
+    "artistFirstName":"Donald",
+    "artistLastName":"Tyson",
+    "completed":"06/30/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/hAwmdeS_W5P6tCH5C2SsVnz_EMREq4gMZA1ow8-dCL0?filename=D.+Tyson+2043+Penn+Ave..jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6091207498,39.359028732 ]
+    },
+    "properties": {
+    "id":"mural69",
+    "identifier":"528 Benninghaus Street",
+    "artist":"Lyle Kissack",
+    "artistFirstName":"Lyle",
+    "artistLastName":"Kissack",
+    "completed":"07/01/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/hFTtkrztdjiQFp1TCOhtxrs2D8xahzDn_6MihoMOsos?filename=Lyle+Kissack+528+Benninghaus+Rd..jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural70",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets014",
+    "artist":"Bill Remington",
+    "artistFirstName":"Bill",
+    "artistLastName":"Remington",
+    "completed":"06/28/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/hu7NN9-6uqK77AcR0nUhN9tyfX0-YgmkV79CzIROZqA?filename=b.+remington+2.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.65197,39.28365 ]
+    },
+    "properties": {
+    "id":"mural71",
+    "identifier":"Ashton and Smallwood Sts.",
+    "artist":"Jay Wolf Schlossberg Cohen and Community Youth",
+    "artistFirstName":"Jay Wolf Schlossberg",
+    "artistLastName":"Cohen and Community Youth",
+    "completed":"06/22/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/HYninQ0ZcqQ4Jk9NBCAryU5DG7juTbU7v_fpD09uS-A?filename=Cohen+and+community+youth.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.62254,39.29488 ]
+    },
+    "properties": {
+    "id":"mural72",
+    "identifier":"Cathedral and Centre Sts.",
+    "artist":"Mary Carfagno Ferguson and women of My Sister's Place",
+    "artistFirstName":"Mary Carfagno",
+    "artistLastName":"Ferguson and women of My Sister's Place",
+    "completed":"06/19/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/hZ2eTFej2qAyku9Ku3ggA7DLv8lV_Vp6p-Mt6qmAxpM?filename=ferguson%2C+pugh%2C+my+sister%27s+place-cathedral+%26+centre+sts+-+ncf+2.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural73",
+    "identifier":"2117  E. North Ave.",
+    "artist":"Pontella Mason",
+    "artistFirstName":"Pontella",
+    "artistLastName":"Mason",
+    "completed":"06/19/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/IbSo-ZDSEbT7vZuTUqNtaFFe-tu69hZc8BwB0KqJXko?filename=mason-2117+or+2125+e+north+ave.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6130612806,39.2769568658 ]
+    },
+    "properties": {
+    "id":"mural74",
+    "identifier":"38 E. Cross St.",
+    "artist":"Ray Ridenour",
+    "artistFirstName":"Ray",
+    "artistLastName":"Ridenour",
+    "completed":"06/21/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/ieu6gHPZovQ8gAzlUo0_xKFxHIGu-ddaRGCOuEqrC1Q?filename=Cross+Street+Mural.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6263,39.26694 ]
+    },
+    "properties": {
+    "id":"mural75",
+    "identifier":"Russell and Hamburg Sts.",
+    "artist":"Unknown Wyland",
+    "artistFirstName":"Unknown",
+    "artistLastName":"Wyland",
+    "completed":"06/15/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/ihoPN3LI0b7omvpxO-b75vj3kxplzOHxh-IGY2gFXlI?filename=wyland+-+600+W+Hamburg.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6021075383,39.3118055944 ]
+    },
+    "properties": {
+    "id":"mural76",
+    "identifier":"1207 E. North Ave.",
+    "artist":"Ernest Shaw",
+    "artistFirstName":"Ernest",
+    "artistLastName":"Shaw",
+    "completed":"06/22/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/IMPRymS9E-0-emrAZIjPgydevU-e74rTQTaMkxR2ygM?filename=Shaw+Mural+001.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.589723874,39.3006719877 ]
+    },
+    "properties": {
+    "id":"mural77",
+    "identifier":"Ashland Ave. and N. Washington St.",
+    "artist":"Stephanie Garmey",
+    "artistFirstName":"Stephanie",
+    "artistLastName":"Garmey",
+    "completed":"06/10/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/IvH7thzwP3YONbeliaLdBtVZc0tujXR6j-xm2xeLGdo?filename=garney+-+ashland+%26+washington+sts.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5828991105,39.2977687792 ]
+    },
+    "properties": {
+    "id":"mural78",
+    "identifier":"2424 McElderry Street",
+    "artist":"Pontella Mason",
+    "artistFirstName":"Pontella",
+    "artistLastName":"Mason",
+    "completed":"06/29/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/j3IwFIb_B4xuCeUpdjevNbp7ynpkrwXd9UwVxcyskB8?filename=P+Mason+2424+McElderry.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6077462874,39.3283171469 ]
+    },
+    "properties": {
+    "id":"mural79",
+    "identifier":"601 E. 33rd Street",
+    "artist":"Danamarie Hosler",
+    "artistFirstName":"Danamarie",
+    "artistLastName":"Hosler",
+    "completed":"06/30/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/jgZyh0WyAs23GAboNhRrDd_4Nj1ujlsMbwgV7wPz8Tc?filename=Danamaie+Hosler+Waverly+Giant+Mural+Panel+5+2008.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5920384737,39.3076327711 ]
+    },
+    "properties": {
+    "id":"mural80",
+    "identifier":"1503 Durham Street",
+    "artist":"Donald Tyson",
+    "artistFirstName":"Donald",
+    "artistLastName":"Tyson",
+    "completed":"07/03/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/jiyno09GTeV6S9udryuTohL-lQTLBbHutQvFeFP-Jmo?filename=1503+Durham+D.+Tyson.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural81",
+    "identifier":"436 W. Lafayette Street",
+    "artist":"Joel Bergner",
+    "artistFirstName":"Joel",
+    "artistLastName":"Bergner",
+    "completed":"07/03/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/JJ0GzN5bY4baL6xg8MPd57UavNjvJ7T8T6U1vW3O97o?filename=436+J.+Bergner+side.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6360119788,39.2790342997 ]
+    },
+    "properties": {
+    "id":"mural82",
+    "identifier":"1219 Bayard St.",
+    "artist":"Mary Carfagno Ferguson",
+    "artistFirstName":"Mary",
+    "artistLastName":"Carfagno Ferguson",
+    "completed":"06/20/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/jOvc70tOlQ3YJUn4vbwKimiFnGGbr-9owrQOGIs-ges?filename=ferguson_bayard.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6263,39.26694 ]
+    },
+    "properties": {
+    "id":"mural83",
+    "identifier":"James St. near Ramsey St.",
+    "artist":"Tony Shore and Area skateboarders",
+    "artistFirstName":"Tony",
+    "artistLastName":"Shore and Area skateboarders",
+    "completed":"06/22/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/JvdNDhlqHASFy0OOlnfaDhWp4GTKoQ6V7XsupWF2Hhg?filename=shore+-+ramsay+%26+james+sts+5+3.04+.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural84",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets015",
+    "artist":"Kien Nyugen",
+    "artistFirstName":"Kien",
+    "artistLastName":"Nyugen",
+    "completed":"06/28/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/jXi1xEAt1uunjfsrE5yoVZANMMMrgcsp3eZeAEJAGTg?filename=k.+nyugen+2.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6111637038,39.2914038296 ]
+    },
+    "properties": {
+    "id":"mural85",
+    "identifier":"210 Guilford Street",
+    "artist":"Danamarie Hosler",
+    "artistFirstName":"Danamarie",
+    "artistLastName":"Hosler",
+    "completed":"06/29/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/k_jdQPvUJ4AdYRHNQffjUO-w5pjhZBTC_n2_he_cQUQ?filename=Health+Dept+D.+Hosler.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural86",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets016",
+    "artist":"Danamarie Hosler",
+    "artistFirstName":"Danamarie",
+    "artistLastName":"Hosler",
+    "completed":"06/29/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/K3FpbTtHbWTy507gVO4qTSnL-Rk-JScTusSJnkGgqIo?filename=DM+Hosler+FM07.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.62769325,39.2830722556 ]
+    },
+    "properties": {
+    "id":"mural87",
+    "identifier":"759 Washington Boulevard",
+    "artist":"Augustina Droze",
+    "artistFirstName":"Augustina",
+    "artistLastName":"Droze",
+    "completed":"07/01/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/Kc4WTJhvNEBwk9WEMVpCN-ZaHL1HEjmocklWUGnpAas?filename=A.+Droze+759+Washington+Blvd.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.56325,39.30241 ]
+    },
+    "properties": {
+    "id":"mural88",
+    "identifier":"540 Lakewood Street",
+    "artist":"Gary Mullen",
+    "artistFirstName":"Gary",
+    "artistLastName":"Mullen",
+    "completed":"06/30/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/KH6I8XwKj08sSifktZ0X5oLfjmWJTOcqmuLqoEzeLc0?filename=540+Lakewood+001.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6086006434,39.3135592724 ]
+    },
+    "properties": {
+    "id":"mural89",
+    "identifier":"529 E. 21st Street",
+    "artist":"Danamarie Hosler",
+    "artistFirstName":"Danamarie",
+    "artistLastName":"Hosler",
+    "completed":"06/30/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/Koh9NlQ2vW4eGjU3acBDj3CfsJHq6op4UEwmTvi5aLk?filename=D.+Hosler+529+E+21st+001.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6278641212,39.2797717438 ]
+    },
+    "properties": {
+    "id":"mural90",
+    "identifier":"765 W. Cross St.",
+    "artist":"Patrick Jacobson",
+    "artistFirstName":"Patrick",
+    "artistLastName":"Jacobson",
+    "completed":"06/21/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/KxccjdBhiBTqJ1BLDNyG8YLAwW-WuRAxV0wdMe9aUmA?filename=jacobson+-+765+W+Cross+Street+2.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6388938255,39.2884655664 ]
+    },
+    "properties": {
+    "id":"mural91",
+    "identifier":"1317 W. Baltimore St.",
+    "artist":"Lyle Kissack and MICA CAP Program",
+    "artistFirstName":"Lyle",
+    "artistLastName":"Kissack and MICA CAP Program",
+    "completed":"06/27/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/L0uZV4kJCIDNOV3i91VtkqnCqy8ISJstZlXJWRw9LbI?filename=SoWeBo+Mural.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.63519,39.33101 ]
+    },
+    "properties": {
+    "id":"mural92",
+    "identifier":"600 W. 28th St.",
+    "artist":"John Ellsberry",
+    "artistFirstName":"John",
+    "artistLastName":"Ellsberry",
+    "completed":"06/09/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/LuEGShNeq7xyVUmWHZsibq13bKVdCWCNxZ6WKCb9MpA?filename=ellsberry+-+600+w+28+st+3.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6378715622,39.3094318548 ]
+    },
+    "properties": {
+    "id":"mural93",
+    "identifier":"2222 Druid Park Dr.",
+    "artist":"Camillia Blackwell",
+    "artistFirstName":"Camillia",
+    "artistLastName":"Blackwell",
+    "completed":"06/09/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/LVMq7D3f_fFsE9sZDAwUfztwsYAQjtlWpdHhjgYcCdY?filename=Druid+Hill+Park+Mural.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5935369994,39.2840974827 ]
+    },
+    "properties": {
+    "id":"mural94",
+    "identifier":"610 S. Broadway",
+    "artist":"Shawn James",
+    "artistFirstName":"Shawn",
+    "artistLastName":"James",
+    "completed":"06/28/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/LWAfI8VK_jnbba_8m0cLaNXljvzhe_5vOJQBU6SLwSk?filename=Shawn+James+Broadway+Temporary+front.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6510390102,39.2870127638 ]
+    },
+    "properties": {
+    "id":"mural95",
+    "identifier":"2174 Hollins St.",
+    "artist":"Ernest Shaw",
+    "artistFirstName":"Ernest",
+    "artistLastName":"Shaw",
+    "completed":"06/21/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/LXh9thKMBRxL6dqVRpgyRxobvLO_vesN5a_hfzXt4H0?filename=Shaw+-+2174+Hollins+St.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.57663,39.3162 ]
+    },
+    "properties": {
+    "id":"mural96",
+    "identifier":"North and Harford Rds.",
+    "artist":"Tom Miller",
+    "artistFirstName":"Tom",
+    "artistLastName":"Miller",
+    "completed":"06/18/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/m_N0IyxPDFZBwH7QEgJ2KSVsJ9WeTyIulRmsM9DOTdg?filename=miller+-+north+ave+%26+hartford+rd+%28orig+1992%29+3.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.60332,39.32947 ]
+    },
+    "properties": {
+    "id":"mural97",
+    "identifier":"Greenmount Ave. and Venerable Ave.",
+    "artist":"Robert Heironimus",
+    "artistFirstName":"Robert",
+    "artistLastName":"Heironimus",
+    "completed":"06/18/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/m-QGLtvi8btd6bllSy7ZecoOZabKRCLSytHw8eajfkA?filename=Heironomous+Mural.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6386200127,39.2970297335 ]
+    },
+    "properties": {
+    "id":"mural98",
+    "identifier":"711 N. Carey St.",
+    "artist":"Deborah English",
+    "artistFirstName":"Deborah",
+    "artistLastName":"English",
+    "completed":"06/11/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/mav3nMczyXG9llGV1t-ChAblpY5vBRQtdeYKQnMmKo8?filename=English+-+711+N.+Carey+Street.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural99",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets017",
+    "artist":"Seth Goodman",
+    "artistFirstName":"Seth",
+    "artistLastName":"Goodman",
+    "completed":"06/30/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/MPRRZ9SyymW8l-SSoAe6I-us1RhOzxqbokDXeeYJilM?filename=Seth+Goodman+Farmers+Market+08+alt+view.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5842200231,39.2976592589 ]
+    },
+    "properties": {
+    "id":"mural100",
+    "identifier":"2324 McElderry St.",
+    "artist":"Patrick Jacobson",
+    "artistFirstName":"Patrick",
+    "artistLastName":"Jacobson",
+    "completed":"06/17/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/MT9IQB8HEn1FygD0SAKQgM9bLm0j01zkgHiAlQUXpOo?filename=jacobson-2324+mcelderry+st+-+hope+for+the+children.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6228908704,39.2500041846 ]
+    },
+    "properties": {
+    "id":"mural101",
+    "identifier":"600 Cherry Hill Rd.",
+    "artist":"Tom Miller",
+    "artistFirstName":"Tom",
+    "artistLastName":"Miller",
+    "completed":"06/09/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/MwIj9A97qmNCx9RqWnvSsFVBQQvrE40IIbbqxZVsBeI?filename=Miller+Mural.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural102",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets018",
+    "artist":"Michelle Santos",
+    "artistFirstName":"Michelle",
+    "artistLastName":"Santos",
+    "completed":"06/29/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/o-2j8tgW7XZyx5XhbtUUdgpiwAZwQkJdiPObufxxmeQ?filename=M+Santos+Detail+2.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.57663,39.3162 ]
+    },
+    "properties": {
+    "id":"mural103",
+    "identifier":"North Ave and Harford Road",
+    "artist":"Spoon and Dan Popkin and Van Allen",
+    "artistFirstName":"Spoon and Dan",
+    "artistLastName":"Popkin and Van Allen",
+    "completed":"06/25/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/O-gc85fWCQx5k5e6ebFeuLXYjTodnv8Z268jrHhddP8?filename=miller+-+1339+E+north+ave+-+restored.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.56325,39.30241 ]
+    },
+    "properties": {
+    "id":"mural104",
+    "identifier":"N. Duncan and McElderry Streets",
+    "artist":"MICA and HEBCAC",
+    "artistFirstName":"",
+    "artistLastName":"MICA and HEBCAC",
+    "completed":"06/24/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/O1ee41zt_NS6493o-6EfijCN4yZh5HwjgnfK07QcUpM?filename=MICA+Mural.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6401525953,39.2931023257 ]
+    },
+    "properties": {
+    "id":"mural105",
+    "identifier":"1425 Mulberry Street",
+    "artist":"Aleks Martray",
+    "artistFirstName":"Aleks",
+    "artistLastName":"Martray",
+    "completed":"06/28/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/o2KmVfeYHbdByDOozML-eIbwcDdUNlZidsf9bdYm9oM?filename=Aleks+Martray+1425+Mulberry+St..jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural106",
+    "identifier":"330 W. Lafayette Street",
+    "artist":"Josh Van Horne",
+    "artistFirstName":"Josh",
+    "artistLastName":"Van Horne",
+    "completed":"07/02/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/OaOh8pwjIaMbT5cGYbvrZJ1QXSeBFw0RQteHnc2J5yU?filename=330+Lafayette+J.+vanHorne.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6263,39.26694 ]
+    },
+    "properties": {
+    "id":"mural107",
+    "identifier":"Ramsay and Cross Sts.",
+    "artist":"John Ellsberry",
+    "artistFirstName":"John",
+    "artistLastName":"Ellsberry",
+    "completed":"06/20/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/oEjY-1T-0FNxENlY9ikMLqKpqBpUUm6_w71QbMfKL1c?filename=ellsberry-ramsay+%26+cross+sts%2C+b%26o.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.65197,39.28365 ]
+    },
+    "properties": {
+    "id":"mural108",
+    "identifier":"N. Stricker and W. Franklin Sts.",
+    "artist":"Gary Mullen with Community Youth",
+    "artistFirstName":"Gary",
+    "artistLastName":"Mullen with Community Youth",
+    "completed":"06/23/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/OeSyr4lECLnXansyEWqOOvw2A8rs1Ob8iEb9uUAZxDg?filename=Mullen+%26+community+youth+-+stricker+%26+Franklin+sts.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6077462874,39.3283171469 ]
+    },
+    "properties": {
+    "id":"mural109",
+    "identifier":"601 E. 33rd Street",
+    "artist":"Gary Mullen",
+    "artistFirstName":"Gary",
+    "artistLastName":"Mullen",
+    "completed":"06/30/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/OEXpKIpMflsb93QSk-SRb77KwSlTEEQe7VMEOYV3osc?filename=Gary+Mullen+33rd+and+Greenmount+Panel+2+2008.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5930689523,39.3231209469 ]
+    },
+    "properties": {
+    "id":"mural110",
+    "identifier":"2798 The Alemeda",
+    "artist":"Lyle and Brian Kissack and Probst",
+    "artistFirstName":"Lyle and Brian",
+    "artistLastName":"Kissack and Probst",
+    "completed":"07/01/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/opB1urZVN1EOz2C8MFPU9JQee6Lr1P5RbP-_jhg72Do?filename=Probst-Kissack+MACA.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5873316774,39.3050876589 ]
+    },
+    "properties": {
+    "id":"mural111",
+    "identifier":"2124 Mura St.",
+    "artist":"Charles Lawrence",
+    "artistFirstName":"Charles",
+    "artistLastName":"Lawrence",
+    "completed":"06/22/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/oQjstVFiHF-mpJMUaEw8JEVyRaesEidCIOoE42LqblA?filename=lawrance++2122+mura+st+2.4.04+2.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6077462874,39.3283171469 ]
+    },
+    "properties": {
+    "id":"mural112",
+    "identifier":"601 E. 33rd Street",
+    "artist":"Michael Owens",
+    "artistFirstName":"Michael",
+    "artistLastName":"Owens",
+    "completed":"06/30/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/Otl20JDbEEH8L0mEiu_uP_ZGkBmV5pyTreTRRPxV2Ws?filename=Michael+Owen+Waverly+Giant+Mural+Panel+3.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.622998789,39.298684486 ]
+    },
+    "properties": {
+    "id":"mural113",
+    "identifier":"801 McCulloh St.",
+    "artist":"Gary Mullen",
+    "artistFirstName":"Gary",
+    "artistLastName":"Mullen",
+    "completed":"06/21/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/p9ctYeW9Ymj7sAGnxDV6XTSXiRsKbw7sfvWg9EGrCY8?filename=mullen+-+801+mccullough+2.4.04.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6351935958,39.3073989165 ]
+    },
+    "properties": {
+    "id":"mural114",
+    "identifier":"1940 Druid Hill Avenue",
+    "artist":"Michelle Santos",
+    "artistFirstName":"Michelle",
+    "artistLastName":"Santos",
+    "completed":"07/03/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/pAgBV3A_6oqhB02RW-Op56XpMxIEtOtnizin3DMGKO4?filename=1940+Druid+Hill+M.+Santos.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6316412737,39.2668215065 ]
+    },
+    "properties": {
+    "id":"mural115",
+    "identifier":"2009 Annapolis Rd.",
+    "artist":"Patricia Stoakley",
+    "artistFirstName":"Patricia",
+    "artistLastName":"Stoakley",
+    "completed":"06/17/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/pakZ97C2-5Q1gEsfWBC_tfZWHwod7JE_7WpolJ2QVCk?filename=stoakley-2009+annapolis+rd.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6110726593,39.3215248331 ]
+    },
+    "properties": {
+    "id":"mural116",
+    "identifier":"401 Whitridge Street",
+    "artist":"Lyle Kissack",
+    "artistFirstName":"Lyle",
+    "artistLastName":"Kissack",
+    "completed":"07/02/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/PcOOpS8yc3_kVnEjVr6CN62yXeSgRWW3hKCDCz9CRHg?filename=401+Whitridge+l.+Kissack.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6503823849,39.2928045558 ]
+    },
+    "properties": {
+    "id":"mural117",
+    "identifier":"400 N. Pulaski St.",
+    "artist":"Archie Veale",
+    "artistFirstName":"Archie",
+    "artistLastName":"Veale",
+    "completed":"06/16/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/pm-WHuygg1Lle38AFItdwpZkBD1fKIY1rZTg3jT3ZxA?filename=veale-400+n+pulaski+st.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6288803551,39.2838996319 ]
+    },
+    "properties": {
+    "id":"mural118",
+    "identifier":"343 Scott St.",
+    "artist":"Mary Carfagno Ferguson",
+    "artistFirstName":"Mary",
+    "artistLastName":"Carfagno Ferguson",
+    "completed":"06/21/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/pTOY2ES_4Xb3JP9OXwFz_jP_RwBiwhOVlTFngTtixic?filename=Ferguson+-+343+Scott+Street.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6628027821,39.334729313 ]
+    },
+    "properties": {
+    "id":"mural119",
+    "identifier":"4000 Park Heights Ave.",
+    "artist":"Lyle and Gerald Kissack and Ross",
+    "artistFirstName":"Lyle and Gerald",
+    "artistLastName":"Kissack and Ross",
+    "completed":"06/17/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/PvgjL4HXDsSsWPnYZKcevR5BgBScUI_j6176UvuZyBc?filename=kissack+%26+ross-2626+Shirley+Ave.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural120",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets019",
+    "artist":"Alisha Marchewka",
+    "artistFirstName":"Alisha",
+    "artistLastName":"Marchewka",
+    "completed":"06/29/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/qmyA-op2ZlM46ce9vKeUeZZFmqZrnGDCtpp1pbbkvhw?filename=A.+Marchewka+Farmers+Market.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.589031396,39.3316716181 ]
+    },
+    "properties": {
+    "id":"mural121",
+    "identifier":"3500 Hillen Rd.",
+    "artist":"John Ford",
+    "artistFirstName":"John",
+    "artistLastName":"Ford",
+    "completed":"06/09/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/QV36z21t7zun27dJvizJDwAnZB4TWLB_LOsnJrNGDwc?filename=Morgenthaler.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural122",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets020",
+    "artist":"Brooks Todd",
+    "artistFirstName":"Brooks",
+    "artistLastName":"Todd",
+    "completed":"06/29/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/rk-7xMOI6onmQOtokfkYX5Hf-oOeeky02TgxG--kjGQ?filename=M.+Todd+FM+07.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.65197,39.28365 ]
+    },
+    "properties": {
+    "id":"mural123",
+    "identifier":"2410 Tolley Street, Morrell Park",
+    "artist":"Chris Peters and Access Art",
+    "artistFirstName":"Chris",
+    "artistLastName":"Peters and Access Art",
+    "completed":"07/02/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/RLXPN_F7pb0SaonkUD_ZF-jwRS5EWMUDS3d_-cg1D-I?filename=Morrell+Park+side.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural124",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets021",
+    "artist":"Guy Jones",
+    "artistFirstName":"Guy",
+    "artistLastName":"Jones",
+    "completed":"06/28/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/rZTN0dXIvmnMx0p5SI3z-pbrtGNGwYyVP64BP2wnaXs?filename=g.+jones+2.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5888155587,39.2894484488 ]
+    },
+    "properties": {
+    "id":"mural125",
+    "identifier":"2000 E. Pratt St.",
+    "artist":"Mary Carfagno Ferguson",
+    "artistFirstName":"Mary",
+    "artistLastName":"Carfagno Ferguson",
+    "completed":"06/16/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/S5LoGjWCmPhQTuvJ3N67ILl8wSSDaqIK3oME7MSUS5Y?filename=ferguson-2000+e+pratt+st.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6523526601,39.2848978793 ]
+    },
+    "properties": {
+    "id":"mural126",
+    "identifier":"2229 1/2 W. Pratt St.",
+    "artist":"James Voshell",
+    "artistFirstName":"James",
+    "artistLastName":"Voshell",
+    "completed":"06/12/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/SPRvi2RI3Pl15prfuZ80nAlGZ_lgCsCxCSwt7-E9UP4?filename=voshell-2229.5+w+pratt+st.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.60332,39.32947 ]
+    },
+    "properties": {
+    "id":"mural127",
+    "identifier":"401E. Lorraine St.",
+    "artist":"Erik Warren",
+    "artistFirstName":"Erik",
+    "artistLastName":"Warren",
+    "completed":"06/18/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/T0M2ttTYz_M2GrN8KbIER-DI1E9M1abOp5OD219MSAY?filename=warren-401+e+lorriane+st.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6332960263,39.3058430894 ]
+    },
+    "properties": {
+    "id":"mural128",
+    "identifier":"1740 Druid Hill Ave.",
+    "artist":"Tom Miller and MICA",
+    "artistFirstName":"Tom",
+    "artistLastName":"Miller and MICA",
+    "completed":"06/22/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/T4DM0VbEQ-pOf2FMMm8L--EzPHzxUgSkKzQmrBbs3jQ?filename=Marbel+Hill+Mural.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.622998789,39.298684486 ]
+    },
+    "properties": {
+    "id":"mural129",
+    "identifier":"801 McCulloh St.",
+    "artist":"Kylis Winborne",
+    "artistFirstName":"Kylis",
+    "artistLastName":"Winborne",
+    "completed":"06/21/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/Tc3A_S6YIpyohPo9-Nbtz4GHeo6v0-mXcZKR-AkSK1Y?filename=winborne+-+801+mccullough+2.4.04+2.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6357062093,39.2873800081 ]
+    },
+    "properties": {
+    "id":"mural130",
+    "identifier":"1115 Hollins St.",
+    "artist":"Espi and Jennifer Frazier and Rattigan",
+    "artistFirstName":"Espi and Jennifer",
+    "artistLastName":"Frazier and Rattigan",
+    "completed":"06/25/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/teBaFn9CBRqVu2r-eeW-oBeW2be8XJi6SvjGyGDZT-w?filename=frazier+%26+rattigan+-+1115+hollins+st+3.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6467109421,39.2827158152 ]
+    },
+    "properties": {
+    "id":"mural131",
+    "identifier":"416 Monroe Street",
+    "artist":"Sunny Miller",
+    "artistFirstName":"Sunny",
+    "artistLastName":"Miller",
+    "completed":"07/03/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/TN4VcWX9sMrYQH2pgbF_2SvC1_8RH5ygkrwgXzi33EQ?filename=416+s.+monroe+s.+miller+light.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6096618434,39.3145125538 ]
+    },
+    "properties": {
+    "id":"mural132",
+    "identifier":"450 E. 22nd St.",
+    "artist":"Lyle Kissack",
+    "artistFirstName":"Lyle",
+    "artistLastName":"Kissack",
+    "completed":"06/21/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/tsVc2_PTp9X90ceLdh6WnmvXOf0VJ_ygp1C-0HCuDc0?filename=Kissack+Mural.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural133",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets022",
+    "artist":"John Marra",
+    "artistFirstName":"John",
+    "artistLastName":"Marra",
+    "completed":"07/01/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/TVW5F_IYcneLIMXT8z-vh9L1OXLxWEHGVMBab5CTMkw?filename=John++Marra+Farmers%27+Market.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5727266876,39.3210596181 ]
+    },
+    "properties": {
+    "id":"mural134",
+    "identifier":"3120 Erdman Avenue",
+    "artist":"Paul Bertholet",
+    "artistFirstName":"Paul",
+    "artistLastName":"Bertholet",
+    "completed":"07/03/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/TZIEau9xh6-baKmxaRwRSHgiTmY_BJ3o6diJQckOkFU?filename=3120+Erdman+Ave+detail2+P.+Bertholet.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.68362,39.34557 ]
+    },
+    "properties": {
+    "id":"mural135",
+    "identifier":"4337 Park Heights",
+    "artist":"Danamarie Hosler",
+    "artistFirstName":"Danamarie",
+    "artistLastName":"Hosler",
+    "completed":"07/01/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/uQIZ8VHlRLUzRmWsjEi7CepkpUJ226ZdmuLHHVvO-Nw?filename=Danamarie+Hosler+-+4337+Park+Heights.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.60332,39.32947 ]
+    },
+    "properties": {
+    "id":"mural136",
+    "identifier":"27th and Greenmount",
+    "artist":"Cindy and Lyle Garcia and Kissack",
+    "artistFirstName":"Cindy and Lyle",
+    "artistLastName":"Garcia and Kissack",
+    "completed":"06/28/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/urW9R1mu_QlfRVdZpof0SAXzOYCD0XDZOMce6IAqRZ0?filename=27th+and+Greenmount+Cindy+Garcia+and+Lyle+Kissack+MACA.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6299685348,39.2829193709 ]
+    },
+    "properties": {
+    "id":"mural137",
+    "identifier":"837 Washington Blvd.",
+    "artist":"Tony, Shawn Shore, James, Access Art",
+    "artistFirstName":"Tony, Shawn",
+    "artistLastName":"Shore, James, Access Art",
+    "completed":"06/26/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/vIP_WRhLLi56lGxx4Hot2FYSFtn3jZSlQoyDAT-myVA?filename=Shore+%26+James+-+837+Washington+Blvd.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6374239144,39.3058161097 ]
+    },
+    "properties": {
+    "id":"mural138",
+    "identifier":"1928 Pennsylvania Avenue (mosaic)",
+    "artist":"Julie and Leslie Stovall and Furlong",
+    "artistFirstName":"Julie and Leslie",
+    "artistLastName":"Stovall and Furlong",
+    "completed":"06/25/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/vPuecwZ3XZ-voL_8uHWfjXFLgKiWjm5YNZYa68Rz4WY?filename=penn+ave.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.638242852,39.3056126312 ]
+    },
+    "properties": {
+    "id":"mural139",
+    "identifier":"592 Presstman Street",
+    "artist":"Lyle Kissack",
+    "artistFirstName":"Lyle",
+    "artistLastName":"Kissack",
+    "completed":"06/29/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/W_2qfsbzm0AMd5-76Kp340WmqzNLSvVf6Fda3MlgSwk?filename=Newborn+592+Presstman+L.+Kissack.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6311815308,39.3289004949 ]
+    },
+    "properties": {
+    "id":"mural140",
+    "identifier":"3424 Elm Avenue",
+    "artist":"Charles Lawrence",
+    "artistFirstName":"Charles",
+    "artistLastName":"Lawrence",
+    "completed":"07/03/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/W66cyIatj56fOCTIgcw7OKQrW6C64gfCXyGGx56vQA0?filename=IMG_0197%5B1%5D&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5853975302,39.3018957018 ]
+    },
+    "properties": {
+    "id":"mural141",
+    "identifier":"1000 N. Patterson Park Ave.",
+    "artist":"Lyle and Gerald Kissack and Ross",
+    "artistFirstName":"Lyle and Gerald",
+    "artistLastName":"Kissack and Ross",
+    "completed":"06/19/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/W874qxfXcU-_GlpkmNsrOWWB2PWPUZPPlZ7m9-s62RU?filename=kissack+%26+ross-1000+N.+Patterson+Park+Ave+1.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6094370128,39.3289376791 ]
+    },
+    "properties": {
+    "id":"mural142",
+    "identifier":"3313 Greenmount Avenue",
+    "artist":"Tom Chalkley",
+    "artistFirstName":"Tom",
+    "artistLastName":"Chalkley",
+    "completed":"07/02/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/WBOUy7t4KTEnMAFXbgoZCHcHA_1W9_BlVbKce8fd35A?filename=3313+greenmount+T.+Chalkely+1.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6367119882,39.2876494659 ]
+    },
+    "properties": {
+    "id":"mural143",
+    "identifier":"1200 Hollins Street, Hollins Market Parking Lot",
+    "artist":"Chevelle M. Moore Jones",
+    "artistFirstName":"Chevelle M.",
+    "artistLastName":"Moore Jones",
+    "completed":"06/10/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/WCSfeADmSStVLO47Wfv-jkqsITwMFWc42q_7uSlbVAM?filename=moore+jones+-+1200+hollins+st+market+parking+lot.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.62254,39.29488 ]
+    },
+    "properties": {
+    "id":"mural144",
+    "identifier":"Howard and Franklin Sts.",
+    "artist":"Derek, Archie, Nichole… Arnold, Veale, Gray, Mason, Waters-Eller",
+    "artistFirstName":"Derek, Archie, Nichole…",
+    "artistLastName":"Arnold, Veale, Gray, Mason, Waters-Eller",
+    "completed":"06/17/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/wF151w0008zhIUCS7UfVegHi03T0BqxnLFqRWiYwEC8?filename=Howard+%26+Franklin.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.62254,39.29488 ]
+    },
+    "properties": {
+    "id":"mural145",
+    "identifier":"115 W. Mulberry Street",
+    "artist":"Mary Carfagno Women's Mural Project and Ferguson",
+    "artistFirstName":"Mary Carfagno",
+    "artistLastName":"Women's Mural Project and Ferguson",
+    "completed":"06/18/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/WFKhNRwSiXrpK4c3jSrbn8nGNu5pTf2cTT6zhUQxyaM?filename=Ferguson+Mural.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6379994805,39.2860490115 ]
+    },
+    "properties": {
+    "id":"mural146",
+    "identifier":"115 S. Carey St.",
+    "artist":"Jenny Merker",
+    "artistFirstName":"Jenny",
+    "artistLastName":"Merker",
+    "completed":"06/15/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/wJbOsPQwyEaChjtXyk43rk8OU5YYeq3cKfd-bqSXf1Y?filename=merker-115+s+carey+st.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural147",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets023",
+    "artist":"Charles Lawrence",
+    "artistFirstName":"Charles",
+    "artistLastName":"Lawrence",
+    "completed":"06/28/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/x1CDgWLlTxrkboAUjw0zSkB4iGoKkk7Au00E6gRuOEk?filename=Charles+Lawrence+Farmer%27s+Market.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural148",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets024",
+    "artist":"Chris Gregorek",
+    "artistFirstName":"Chris",
+    "artistLastName":"Gregorek",
+    "completed":"06/29/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/x5gM_y09hvHIYV1b0pa7SW2ine16DuzIDYbyLnG4qG8?filename=Chris+Gregorek+FM07+alt+1.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural149",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets025",
+    "artist":"Nicolas Tolls",
+    "artistFirstName":"Nicolas",
+    "artistLastName":"Tolls",
+    "completed":"06/28/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/xOgon1UjRkyBlg6JFdbRnNruQIkXYI_nZQ6GkR7rSAQ?filename=NicholasTolls.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6430238326,39.301552638 ]
+    },
+    "properties": {
+    "id":"mural150",
+    "identifier":"1139 N. Gilmore St.",
+    "artist":"Charles Lawrence",
+    "artistFirstName":"Charles",
+    "artistLastName":"Lawrence",
+    "completed":"06/20/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/xrEIL8JRr4kHnZ4XptowsZ8Pp7JQ5rJaSNdUndH_mNM?filename=Gilmor+Street.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6021696578,39.3037471112 ]
+    },
+    "properties": {
+    "id":"mural151",
+    "identifier":"1137 Harford Road",
+    "artist":"Jessie Unterhalter",
+    "artistFirstName":"Jessie",
+    "artistLastName":"Unterhalter",
+    "completed":"07/03/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/XwLIIa02vUv2hZ9KbFISkXQIuEMengKmIVb2bGABGqA?filename=1137+Harford+J.+Unterhalter.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5961000671,39.3160234148 ]
+    },
+    "properties": {
+    "id":"mural152",
+    "identifier":"2310 Harford Rd.",
+    "artist":"George Ferrandi",
+    "artistFirstName":"George",
+    "artistLastName":"Ferrandi",
+    "completed":"06/12/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/yLlcwwxcYKAPEKj_SiXiLHX9tXFOKbGN-V6FVKa3R5E?filename=ferrandi-2310+harford+rd.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural153",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets026",
+    "artist":"Stephanie Leung",
+    "artistFirstName":"Stephanie",
+    "artistLastName":"Leung",
+    "completed":"06/29/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/yu-svQPxsFzHCRgfulfwLaL7KzXjEHzczpAvu-jCMuU?filename=S.+Leung+FM+Detail.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.67215,39.31028 ]
+    },
+    "properties": {
+    "id":"mural154",
+    "identifier":"1530 N. Bentalou Street, Easterwood Recreation Center",
+    "artist":"Michelle Santos",
+    "artistFirstName":"Michelle",
+    "artistLastName":"Santos",
+    "completed":"06/30/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/yVnmL7Vfsrin5OghoDYzlxApKS1EN4-8vZiUOuRdJi8?filename=M+Santos+Easterwood+Rec+Nov+08.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.64039,39.31194 ]
+    },
+    "properties": {
+    "id":"mural155",
+    "identifier":"North and Park Aves.",
+    "artist":"Bonnie Bonnell",
+    "artistFirstName":"Bonnie",
+    "artistLastName":"Bonnell",
+    "completed":"06/14/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/YYulneSSWbQxRJ4lxQTPWMTJPO7aR7AXjpEYpG7NTQc?filename=bonnell-north+%26+park+aves.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6075,39.2973 ]
+    },
+    "properties": {
+    "id":"mural156",
+    "identifier":"Baltimore Farmer's Market - Holliday and Saratoga Streets027",
+    "artist":"Bill Remington",
+    "artistFirstName":"Bill",
+    "artistLastName":"Remington",
+    "completed":"06/29/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/zemVtZelY0si1VMNlQ9H31rJzeFYGPhWFPLOSF8P6pk?filename=B.+Remington+Farmers%27+Market.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6198706377,39.2949969112 ]
+    },
+    "properties": {
+    "id":"mural157",
+    "identifier":"500 N. Howard St.",
+    "artist":"John Ellsberry",
+    "artistFirstName":"John",
+    "artistLastName":"Ellsberry",
+    "completed":"06/14/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/ZQlOUb4K16HkMLTrq79FQ_3-jESMc5rP8t5EKRAULp4?filename=ellsberry+-+500+N+Howard+St.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.57663,39.3162 ]
+    },
+    "properties": {
+    "id":"mural158",
+    "identifier":"2710 E. Hoffman Street, Fort Worthington Rec Center",
+    "artist":"Tom Clayton",
+    "artistFirstName":"Tom",
+    "artistLastName":"Clayton",
+    "completed":"07/01/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/zrg10h68JJm7wSxxeWUZt-t_PW8yaj2uyS5aJamECXE?filename=Tom+Clayton+Ft.+Worthington+Rec+Center+%281%29.JPG&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6085286976,39.3061758385 ]
+    },
+    "properties": {
+    "id":"mural159",
+    "identifier":"1400 Greenmount Avenue",
+    "artist":"Archie Veale",
+    "artistFirstName":"Archie",
+    "artistLastName":"Veale",
+    "completed":"07/01/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/zvDCRvnCZ9vUeR17cKb8KxWPZUnUm_n5MRz8LYSk9Jk?filename=A.+Veale+1400+Greenmount.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6263,39.26694 ]
+    },
+    "properties": {
+    "id":"mural160",
+    "identifier":"W. Hamburg and Bayard Sts.",
+    "artist":"Shawn James and Mural Masters",
+    "artistFirstName":"Shawn",
+    "artistLastName":"James and Mural Masters",
+    "completed":"06/26/05 12:00 AM",
+    "main_image_url":"https://data.baltimorecity.gov/views/zqh4-9ud5/files/ZXthXCpQ5N__zbbQTYcMuOoZs8sm9Oz82x7v_WB55As?filename=James+Mural+-+Biking.jpg&content_type=image%2Fjpeg%3B+charset%3Dbinary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5930063994,39.3032890148 ]
+    },
+    "properties": {
+    "id":"mural161",
+    "identifier":"1731 E. Chase St.",
+    "artist":"Jennifer Rattigan",
+    "artistFirstName":"Jennifer",
+    "artistLastName":"Rattigan",
+    "completed":"06/26/05 12:00 AM",
+    "main_image_url":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5858837689,39.3109962046 ]
+    },
+    "properties": {
+    "id":"mural162",
+    "identifier":"N. Patterson Park Ave. and N. Gay St.",
+    "artist":"Lyle Kissack",
+    "artistFirstName":"Lyle",
+    "artistLastName":"Kissack",
+    "completed":"06/26/05 12:00 AM",
+    "main_image_url":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6095719111,39.3029202928 ]
+    },
+    "properties": {
+    "id":"mural163",
+    "identifier":"1103 Brentwood Ave.",
+    "artist":"Gary Mullen",
+    "artistFirstName":"Gary",
+    "artistLastName":"Mullen",
+    "completed":"06/22/05 12:00 AM",
+    "main_image_url":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5858837689,39.3109962046 ]
+    },
+    "properties": {
+    "id":"mural164",
+    "identifier":"N. Patterson Park Ave. and N. Gay St.",
+    "artist":"Alexander Martray",
+    "artistFirstName":"Alexander",
+    "artistLastName":"Martray",
+    "completed":"06/26/05 12:00 AM",
+    "main_image_url":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.633080189,39.2746995675 ]
+    },
+    "properties": {
+    "id":"mural165",
+    "identifier":"1620 Bush St.",
+    "artist":"Shawn James and Mural Masters",
+    "artistFirstName":"Shawn",
+    "artistLastName":"James and Mural Masters",
+    "completed":"06/26/05 12:00 AM",
+    "main_image_url":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6316412737,39.2668215065 ]
+    },
+    "properties": {
+    "id":"mural166",
+    "identifier":"2009 Annapolis Road",
+    "artist":"Lyle Kissack",
+    "artistFirstName":"Lyle",
+    "artistLastName":"Kissack",
+    "completed":"07/03/05 12:00 AM",
+    "main_image_url":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.5923025704,39.2649291862 ]
+    },
+    "properties": {
+    "id":"mural167",
+    "identifier":"Key Highway under I95",
+    "artist":"Michael Kirby",
+    "artistFirstName":"Michael",
+    "artistLastName":"Kirby",
+    "completed":"06/27/05 12:00 AM",
+    "main_image_url":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6263,39.26694 ]
+    },
+    "properties": {
+    "id":"mural168",
+    "identifier":"Wicomico and Bayard Sts.",
+    "artist":"Shawn James and Mural Masters",
+    "artistFirstName":"Shawn",
+    "artistLastName":"James and Mural Masters",
+    "completed":"06/26/05 12:00 AM",
+    "main_image_url":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6494208703,39.2693486014 ]
+    },
+    "properties": {
+    "id":"mural169",
+    "identifier":"2300 Washington Boulevard",
+    "artist":"Chris Peters",
+    "artistFirstName":"Chris",
+    "artistLastName":"Peters",
+    "completed":"07/03/05 12:00 AM",
+    "main_image_url":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6116403518,39.3124081402 ]
+    },
+    "properties": {
+    "id":"mural170",
+    "identifier":"323 E. 20th St.",
+    "artist":"Lyle Kissack",
+    "artistFirstName":"Lyle",
+    "artistLastName":"Kissack",
+    "completed":"06/27/05 12:00 AM",
+    "main_image_url":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.65197,39.28365 ]
+    },
+    "properties": {
+    "id":"mural171",
+    "identifier":"900 Ostend St.",
+    "artist":"Tony Shore",
+    "artistFirstName":"Tony",
+    "artistLastName":"Shore",
+    "completed":"06/22/05 12:00 AM",
+    "main_image_url":""
+    }
+  }
+]
+}
